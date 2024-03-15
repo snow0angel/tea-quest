@@ -1,0 +1,19 @@
+{
+  "name": "@gekkoga/tea-quest",
+  "version": "1.0.0",
+  "description": "- Một dự án tuyệt vời trên tea protocol\r - Dự án mẫu thao khảo tại: https://github.com/snow0angel/tea-quest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@gekkoga",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snow0angel/tea-quest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/snow0angel/tea-quest/issues"
+  },
+  "homepage": "https://github.com/snow0angel/tea-quest#readme"
+}

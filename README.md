@@ -1,1 +1,2 @@
-# tea-quest
+- Một dự án tuyệt vời trên tea protocol
+- Dự án mẫu thao khảo tại: https://github.com/snow0angel/tea-quest
